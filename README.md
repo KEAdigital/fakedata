@@ -4,7 +4,15 @@ When teaching, there is often a need for data, it can be for databases or files 
 Sometimes it is an advantage if the data has a large "size" other times it is an advantage with "small" amounts of data - Speed.
 
 I have created a Jupyter Lab file that generate "sales data" for a total fictitious business.
+
+[FakerData.ipynb](FakerData.ipynb)
+
 If you prefer the code as a Python (py) file, you can export it from Jupyter Lab.
+
+## Faker
+I have usede the Python module **Faker**.
+
+You can read more about this module her: [Faker](https://faker.readthedocs.io/en/master/index.html)
 
 ## Tables
 Data consists of 4 "*tables*":
