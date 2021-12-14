@@ -17,7 +17,7 @@ Data consists of 4 "*tables*":
 
 ![](data_er_diagram.jpg)
 
-# Number of entries
+## Number of entries
 It is possible to control the number of entries in the various tables. 
 However, you should be aware that a large number of records will mean that it takes a long time to generate the data.
 
