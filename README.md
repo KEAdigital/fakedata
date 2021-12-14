@@ -1,5 +1,5 @@
 # Fakedata
-When teaching, there is often a need for data, it can be for databases or files (CSV, Excel) to be imported in e.g. Python to work with those there.
+When teaching, there is often a need for data, it can be for databases or files (*CSV, Excel*) to be imported in e.g. Python to work with those there.
 
 Sometimes it is an advantage if the data has a large "size" other times it is an advantage with "small" amounts of data - Speed.
 
