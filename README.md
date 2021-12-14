@@ -7,7 +7,7 @@ I have created a Jupyter Lab file that generate "sales data" for a total fictiti
 
 [FakerData.ipynb](FakerData.ipynb)
 
-If you prefer the code as a Python (.py) file, you can export it from Jupyter Lab.
+If you prefer the code as a Python (*.py*) file, you can export it from Jupyter Lab.
 
 ## Faker
 I have usede the Python module **Faker**.
