@@ -13,22 +13,25 @@ Data consists of 4 "tables":
 - Orders
 - Products - 20 products predefined
 
+### Relations
+
+![](data_er_diagram.jpg)
+
 # Number of entries
 It is possible to control the number of entries in the various tables. 
-However, you should be aware that a large number of records will mean that it takes a long time to generate data.
+However, you should be aware that a large number of records will mean that it takes a long time to generate the data.
 
   no_customeres = 20
   no_sales = 5000
   no_employee = 10
 
-Product is predefined to 20 products
+Product is predefined to 20 products.
 
 ## Export
-Data is exported to CSV and Excel
-In Excel, it is one Excel file that contains 4 sheets
+Data is exported to CSV and Excel.
+In Excel, it is one Excel file that contains 4 sheets.
 
 ### CSV
-# Gem til CSV
 - customers.csv
 - order.csv
 - employees.csv
