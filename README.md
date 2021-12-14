@@ -12,7 +12,10 @@ If you prefer the code as a Python (.py) file, you can export it from Jupyter La
 ## Faker
 I have usede the Python module **Faker**.
 
-You can read more about this module her: [Faker](https://faker.readthedocs.io/en/master/index.html)
+You can read more about this module her: 
+
+- [pypi.org/project/Faker](https://pypi.org/project/Faker/)
+- [faker.readthedocs.io](https://faker.readthedocs.io/en/master/index.html)
 
 ## Tables
 Data consists of 4 "*tables*":
