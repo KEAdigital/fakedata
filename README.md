@@ -42,6 +42,7 @@ Product is predefined to 20 products.
 
 ## Export
 Data is exported to CSV and Excel.
+
 In Excel, it is one Excel file that contains 4 sheets.
 
 ### CSV
