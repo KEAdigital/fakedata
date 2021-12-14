@@ -9,8 +9,8 @@ If you prefer the code as a Python (py) file, you can export it from Jupyter Lab
 ## Tables
 Data consists of 4 "*tables*":
 - Customers
-- Employees
-- Orders
+- Employee
+- Order
 - Products - *20 products predefined*
 
 ### Relations
