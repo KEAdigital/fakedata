@@ -7,11 +7,11 @@ I have created a Jupyter Lab file that generate "sales data" for a total fictiti
 If you prefer the code as a Python (py) file, you can export it from Jupyter Lab.
 
 ## Tables
-Data consists of 4 "tables":
+Data consists of 4 "*tables*":
 - Customers
 - Employees
 - Orders
-- Products - 20 products predefined
+- Products - *20 products predefined*
 
 ### Relations
 
@@ -21,9 +21,11 @@ Data consists of 4 "tables":
 It is possible to control the number of entries in the various tables. 
 However, you should be aware that a large number of records will mean that it takes a long time to generate the data.
 
+```
   no_customeres = 20
   no_sales = 5000
   no_employee = 10
+```
 
 Product is predefined to 20 products.
 
