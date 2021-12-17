@@ -53,3 +53,17 @@ In Excel, it is one Excel file that contains 4 sheets.
 
 ### Excel
 - sales_data.xlsx
+
+# Extra links
+Some links to OpenData, if you need somthing else :-)
+
+- [UCI -ML](http://archive.ics.uci.edu/ml/datasets.php)
+- [DataHub.io](https://datahub.io/collections)
+- [FiveThirtyEight](https://data.fivethirtyeight.com)
+- [Google Cloud](https://cloud.google.com/bigquery/public-data)
+- [Data.gov](https://www.data.gov)
+- [Kaggle](https://www.kaggle.com/datasets)
+- [BuzzFeed News](https://github.com/BuzzFeedNews)
+- [Data.Nasa.gov](https://data.nasa.gov)
+- [Nasdaq Data Link](https://data.nasdaq.com/search)
+- [GitHub Awesomedata](https://github.com/awesomedata/awesome-public-datasets)
