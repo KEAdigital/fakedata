@@ -32,13 +32,6 @@ Data consists of 4 "*tables*":
 It is possible to control the number of entries in the various tables. 
 However, you should be aware that a large number of records will mean that it takes a long time to generate the data.
 
-## Export
-You can export to:
-
-- CSV
-- Excel
-- MySQL on Azure
-
 ```
   no_customeres = 20
   no_sales = 5000
@@ -48,7 +41,11 @@ You can export to:
 Product is predefined to 20 products.
 
 ## Export
-Data is exported to CSV and Excel.
+Data is exported to:
+
+- CSV
+- Excel
+- MySQL on Azure
 
 In Excel, it is one Excel file that contains 4 sheets.
 
@@ -60,6 +57,16 @@ In Excel, it is one Excel file that contains 4 sheets.
 
 ### Excel
 - sales_data.xlsx
+
+### MySQL Azure
+Setup for Azure is in the file database.cfg
+
+- username
+- password
+- host
+- port
+- db_name
+
 
 # Extra links
 Some links to OpenData, if you need somthing else :-)
