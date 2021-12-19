@@ -49,16 +49,17 @@ Data is exported to:
 
 In Excel, it is one Excel file that contains 4 sheets.
 
-### CSV
+**CSV**
 - customers.csv
 - order.csv
 - employees.csv
 - products.csv
 
-### Excel
+**Excel**
 - sales_data.xlsx
 
-### MySQL Azure
+**MySQL Azure**
+
 Setup for Azure is in the file database.cfg
 
 - username
