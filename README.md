@@ -21,7 +21,7 @@ You can read more about this module her:
 Data consists of 4 "*tables*":
 - Customers
 - Employee
-- Order
+- Orderlines
 - Products - *20 products predefined*
 
 ### Relations
@@ -31,6 +31,13 @@ Data consists of 4 "*tables*":
 ## Number of entries
 It is possible to control the number of entries in the various tables. 
 However, you should be aware that a large number of records will mean that it takes a long time to generate the data.
+
+## Export
+You can export to:
+
+- CSV
+- Excel
+- MySQL on Azure
 
 ```
   no_customeres = 20
