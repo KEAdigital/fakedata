@@ -1,0 +1,41 @@
+customer_id;first_name;last_name;address;postcode;city;country;email;date_of_birth
+1;James;Castaneda;"9181 Marshall Glen
+Kylestad, NJ 76278";74913;Marcusport;Cuba;sneal@example.net;1966-02-07
+2;Roy;Vargas;"130 Paul Valleys
+Lake Colin, ME 70971";67058;South Tamitown;United States Virgin Islands;matthewlopez@example.org;1974-11-22
+3;Steve;Evans;"106 Johnson Extension Suite 216
+Port Martinberg, OH 95636";59267;Lake Marissa;Taiwan;gerald06@example.net;1969-08-11
+4;Karen;Schwartz;"438 Donna Drive Apt. 354
+North Theresa, AR 37617";66365;Markburgh;Central African Republic;smithdaniel@example.net;1957-08-21
+5;James;Short;"0085 Jonathan Locks Suite 807
+Karenberg, CA 43485";44205;Lake Jonathanbury;Luxembourg;pamelagoodwin@example.net;1955-12-18
+6;Deanna;Chung;"9097 Green Points
+East Seth, WI 94480";92845;South Jenniferton;Uzbekistan;jenniferhouse@example.net;1992-01-09
+7;Blake;Kaiser;"198 Kramer Rue Suite 944
+Williamchester, IL 05452";37969;New Christineville;Bangladesh;dustinrodriguez@example.org;2002-10-24
+8;Brian;Glover;"65813 Shelly Point Suite 438
+Smithside, MI 92338";48962;West Jermaineview;Samoa;colleenberger@example.net;1972-04-01
+9;Patrick;Benson;"17681 Tanya Ville
+Lake Timothy, CT 01883";57094;West Jenniferside;Cook Islands;andrew20@example.net;1981-09-30
+10;Howard;Bautista;"74344 Bell Vista Suite 436
+Fitzpatrickfurt, CT 82038";72853;East Williambury;Northern Mariana Islands;wtorres@example.com;1969-06-07
+11;Jonathan;Phillips;"259 Robin Curve Apt. 237
+Smithburgh, ID 58731";55670;East Marystad;Afghanistan;hollowayjennifer@example.org;1974-04-20
+12;Courtney;Brown;"93728 Spencer Turnpike Suite 455
+East Richardview, ND 13989";42410;Port Vanessa;Ireland;williamsdonald@example.net;1959-06-18
+13;Kristina;Lamb;"300 Angela Passage
+Melindaton, CA 35294";28075;Stevenmouth;United Arab Emirates;thale@example.org;1975-07-27
+14;David;Gill;"140 Potter Trace Suite 723
+Taylorstad, CA 80639";57422;West Dana;Tajikistan;brooke62@example.org;1979-05-21
+15;Daniel;Wade;"757 Michelle Dale Apt. 366
+New Lauramouth, TN 62950";74903;Tuckerchester;Georgia;lbrown@example.com;1976-05-14
+16;Kurt;Ortega;"90985 Richard Knolls Suite 377
+Foxhaven, MT 43198";32201;Port Julian;Hong Kong;singletongregory@example.org;1954-11-20
+17;Mike;Kelly;"USNS Anderson
+FPO AP 62495";64697;Millerside;Tuvalu;pwest@example.org;1985-09-25
+18;Monica;Williams;"57865 Lopez Passage
+West Marcusmouth, AZ 35122";40202;East Katelynland;Turks and Caicos Islands;briannacrawford@example.org;1959-04-01
+19;Adrienne;Neal;"8838 Daniel Spur Suite 864
+Lake Emily, MO 67867";43617;Royside;Vietnam;abrown@example.net;1967-07-21
+20;Tara;Washington;"464 Watson Bridge
+Hernandezburgh, FL 98053";89021;Lake Brianshire;Jordan;david62@example.org;1986-02-12
